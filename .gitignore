@@ -1,0 +1,6 @@
+data/common_voice_pt/*
+checkpoints/*.ckpt
+__pycache__
+output/*.pt
+output/*.wav
+WavTokenizer.egg-info
